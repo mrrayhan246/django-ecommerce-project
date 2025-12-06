@@ -2,8 +2,7 @@
 
 **Open-source eCommerce Starter** that loads the products from `JSON` files saved in the `templates directory` (no database required) and uses a decent UI for page styling - Powered by **Django & Stripe**.
 
-- [Django mini eCommerce](https://github.com/app-generator/ecommerce-django-stripe) sources (this repo)
-- [Rocket eCommerce](https://app-generator.dev/product/rocket-ecommerce/django/) - **PRO Version**
+- [Django Mini eCommerce](https://github.com/mrrayhan246/django-ecommerce-project) sources (this repo)
   - ✅ Stripe Integration
   - ✅ Checkout, Discounts Page
   - ✅ Tags, Categories
@@ -18,7 +17,8 @@
 
 ```bash
 $ git clone https://github.com/app-generator/ecommerce-django-stripe.git
-$ cd ecommerce-django-stripe
+$ git clone https://github.com/mrrayhan246/django-ecommerce-project.git
+$ cd django-ecommerce-project
 ```
 
 <br />
@@ -103,9 +103,6 @@ Visit `http://localhost:8000` in your browser. The app should be up & running.
 
 <br />
 
-## Need More? Go PRO with [Rocket eCommerce](https://app-generator.dev/product/rocket-ecommerce/django/)
-
-Production-ready eCommerce CMS integrated with Stripe, Analytics, Discounts Page, Docker and CI/CD support - Actively supported by [App-Generator](https://app-generator.dev/).
 
 | Status | Item | info | 
 | --- | --- | --- |
@@ -122,9 +119,7 @@ Production-ready eCommerce CMS integrated with Stripe, Analytics, Discounts Page
 | ✅ | Docker | YES |
 | ✅ | CI/CD | Render |
 
-![Rocket eCommerce - Production-ready eCommerce CMS integrated with Stripe, Analytics, Discounts Page, Docker and CI/CD support.](https://github.com/user-attachments/assets/5db5841f-6802-4dfa-8ce7-46cf14435c5a)
 
 <br />
 
 ---
-Django & Stripe `Mini eCommerce` - Open-source eCommerce Starter provided by [App-Generator](https://app-generator.dev/).
